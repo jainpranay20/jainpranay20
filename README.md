@@ -8,13 +8,6 @@ I pursued my M. Tech from IIIT Bangalore, and during my time there, I worked on 
 
 As a software professional, I am always eager to take on new challenges and strive to stay updated with the latest industry trends. I enjoy collaborating with others and constantly seeking opportunities to expand my knowledge and skills.
 
-## 🛠️ Tech Stack
-- Java, Spring Framework, JavaScript, ReactJS, HTML, CSS, MySQL, Maven, Docker, Postman, Git
-
-## 🧠 Currently Exploring
-- Spring Boot, Microservices
-- DnD Kit
-- Data Structures and Algorithms
 
 ## 📫 Reach Me At
 - ✉️  jainpranay20@gmail.com
