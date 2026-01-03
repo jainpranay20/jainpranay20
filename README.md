@@ -9,7 +9,8 @@ Strong frontend expertise in crafting responsive, enterprise-grade UIs using Rea
 
 Hands-on experience with DevOps and cloud deployments, leveraging Docker, OpenShift, Jenkins, and modern CI/CD practices to ensure high availability, scalability, and operational efficiency. 
 Driven by solving complex engineering problems that deliver measurable business impact.
-***
+
+---
 
 ## 🛠 Tech Stack
 
@@ -68,9 +69,11 @@ Driven by solving complex engineering problems that deliver measurable business 
 1. **Medimeet** [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16">](https://github.com/jainpranay20/Medimeet)<br>
    **Description**: A modern, full-stack telemedicine platform where users can register as patients or doctors, book real-time consultations, and conduct 1-on-1 video calls.<br>
    **Tech Stack**: **Next.js**, Clerk, Neon DB, and Prisma<br>
-   **Key Features**: Responsive design, real-time data visualization, theming  <br>
-   **Learning**: Server side rendering
----
+   **Key Features**: Responsive design, real-time data visualization, theming  
+   **Learning**: Server side rendering<br>
+
+<br>
+
 2. **CSS Grid Layouts (Advanced CSS)**[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16">](https://github.com/jainpranay20/CSS-Grid-Layouts)<br>
    **Description**: A hands‑on repository demonstrating advanced CSS Grid layouts, including Masonry, Holy Grail, and multi‑column designs. Each layout is implemented with responsive breakpoints and modern CSS.  
    **Tech Stack**: HTML, **CSS (Grid, Flexbox)**, Responsive Design  
@@ -78,17 +81,20 @@ Driven by solving complex engineering problems that deliver measurable business 
    - Masonry-style Pinterest‑like grid using `grid-template-rows: masonry.`  
    - Classic Holy Grail layout (header, 3‑column content, footer)  
    - Multi‑column responsive layouts with auto‑fit and minmax  
-   **Learning**: Advanced CSS Grid patterns, responsive design, layout optimization
----
-   3. **YouTube Clone (React + Redux)**[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16">](https://github.com/jainpranay20/Youtube)<br>
-      **Description**: A YouTube‑style frontend built with React and Redux to strengthen advanced React concepts. Features include a nested recursive comment system, dynamic routing, and state management for videos, playlists, and user interactions.  
-      **Tech Stack**: React, Redux Toolkit, React Router, Axios, Tailwind CSS  
-      **Key Features**:  
-      - **Nested recursive comments (reply to any level) using recursion**  
-      - Centralized state management with Redux Toolkit  
-      - Responsive UI with video player, sidebar, and search  
-      **Learning**: Advanced React patterns, recursive component design, Redux state management
----
+   **Learning**: Advanced CSS Grid patterns, responsive design, layout optimization 
+
+  <br>
+
+3. **YouTube Clone (React + Redux)**[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16">](https://github.com/jainpranay20/Youtube)<br>
+   **Description**: A YouTube‑style frontend built with React and Redux to strengthen advanced React concepts. Features include a nested recursive comment system, dynamic routing, and state management for videos, playlists, and user interactions.  
+   **Tech Stack**: React, Redux Toolkit, React Router, Axios, Tailwind CSS  
+   **Key Features**:  
+   - **Nested recursive comments (reply to any level) using recursion**  
+   - Responsive UI with video player, sidebar, and search  
+   **Learning**: Advanced React patterns, recursive component design, Redux state management
+
+<br>
+
 4. **Netflix GPT (React + Redux)**[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16">](https://github.com/jainpranay20/Netflix)<br>
    **Description**: A Netflix‑inspired frontend application to master advanced React concepts. Integrates with a movie API (e.g., TMDB) and uses Redux for global state, featuring dynamic content sections, search, and a GPT‑powered recommendation engine.  
    **Tech Stack**: React, Redux Toolkit, React Router, Tailwind CSS, TMDB API  
@@ -98,9 +104,9 @@ Driven by solving complex engineering problems that deliver measurable business 
    - GPT‑powered movie recommendations based on user input  
    - Centralized state for movies, user preferences, and search  
    **Learning**: Advanced React patterns, API integration, Redux state management, responsive design
----
 
-
+<br>    
+   
 ### Problem Solving
    
 1. **DSA Practice Repository**[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16">](https://github.com/jainpranay20/DSA)<br>
