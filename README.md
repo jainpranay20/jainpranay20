@@ -1,16 +1,7 @@
-# 👋 Hi, I'm Pranay Jain
+# Hi, I'm Pranay Jain
 
-I am a passionate Full-Stack Software Developer with 2 years of experience, currently working at IBM ISL. I have a results-driven mindset and hands-on experience in developing and optimizing enterprise dashboards and device management platforms. Proven expertise in building responsive and intuitive UI components using React and Carbon Design System, coupled with solid backend development using Java, Spring, and RESTful APIs.
+Full-Stack Software Engineer with 2.5 years of experience at IBM ISL, specializing in building high-performance, scalable systems using Java, Spring Boot, Kafka, and microservices architecture. Strong expertise in crafting responsive UIs with React and Carbon Design System, along with cloud-native deployments using Docker, OpenShift, Jenkins, and DevOps best practices.
 
-Strong understanding of microservices architecture, DevOps practices, and cloud-native deployments using Docker, OpenShift, and Jenkins. Passionate about crafting clean, scalable solutions that improve usability and operational efficiency.
+M.Tech graduate from IIIT Bangalore, with hands-on experience in DevOps, Docker, Ansible, and web application development. Driven by solving complex engineering problems that deliver measurable impact—ensuring high availability, scalability, and operational efficiency. 
 
-I pursued my M. Tech from IIIT Bangalore, and during my time there, I worked on various projects related to DevOps, Docker, Ansible, and web applications. Additionally, I explored Spring Boot, React, and Java, gaining a solid understanding of shell scripting and Linux system calls.
-
-As a software professional, I am always eager to take on new challenges and strive to stay updated with the latest industry trends. I enjoy collaborating with others and constantly seeking opportunities to expand my knowledge and skills.
-
-
-## 📫 Reach Me At
-- ✉️  jainpranay20@gmail.com
-- 🌐 [LinkedIn](https://www.linkedin.com/in/pranayjain20/)
-
-Thanks for visiting!
+Actively progressing toward a Senior Engineering role with a focus on system design and large-scale distributed systems, and always open to connecting with professionals building impactful technology.
