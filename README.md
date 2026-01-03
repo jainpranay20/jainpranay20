@@ -27,6 +27,7 @@ Driven by solving complex engineering problems that deliver measurable business 
 ### 🎨 Frontend
 - React
 - Carbon Design System
+- Next.js
 
 ### 🧰 Tools & Platforms
 - Docker
@@ -58,6 +59,7 @@ Driven by solving complex engineering problems that deliver measurable business 
    **Description**: EventTix is a scalable and secure ticket booking backend system designed using Spring Boot and microservices architecture.<br>
    **Tech Stack**: Spring Boot, Kafka, MySQL, Docker, REST APIs, Keycloak<br>
    **Key Features**: **Event-driven architecture**, fault-tolerant design
+   
    **Learning**: Microservices patterns, distributed systems, Kafka streams
 
 
