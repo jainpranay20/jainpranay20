@@ -12,29 +12,21 @@ Driven by solving complex engineering problems that deliver measurable business 
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-- Java
-- JavaScript
-- SQL
+🔹 Backend
+<p align="left"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Microservices-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/OAuth2-3C873A?style=for-the-badge"/> <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/> </p>
+🤖 GenAI & Spring AI
+<p align="left"> <img src="https://img.shields.io/badge/GenAI-412991?style=for-the-badge"/> <img src="https://img.shields.io/badge/LLM%20Integration-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/> </p>
+🗄 Databases & Messaging
+<p align="left"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/> <img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/> </p>
+🎨 Frontend
+<p align="left"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </p>
+🚀 DevOps & Cloud
+<p align="left"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/ELK%20Stack-005571?style=for-the-badge"/> </p>
+🧪 Tools & Testing
+<p align="left"> <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/> <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/> <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/> <img src="https://img.shields.io/badge/Mockito-78C257?style=for-the-badge"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> </p>
+🧠 Concepts
+<p align="left"> <img src="https://img.shields.io/badge/OOP-0A66C2?style=for-the-badge"/> <img src="https://img.shields.io/badge/Design%20Patterns-6A1B9A?style=for-the-badge"/> <img src="https://img.shields.io/badge/System%20Design-263238?style=for-the-badge"/> </p>
 
-### ⚙️ Frameworks & Backend
-- Spring Boot
-- Kafka
-- Microservices
-- REST APIs
-- Redis
-
-### 🎨 Frontend
-- React
-- Carbon Design System
-- Next.js
-
-### 🧰 Tools & Platforms
-- Docker
-- OpenShift
-- Jenkins
-- Git
-- Linux
 
 ## 🧠 Computer Science & Engineering Fundamentals
 - 🧩 **Data Structures & Algorithms**
