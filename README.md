@@ -43,7 +43,7 @@ Driven by solving complex engineering problems that deliver measurable business 
 - Writing clean, maintainable, production-ready code
 
 
-## 🚀 Projects - All My project which i have understodd written 
+## 🚀 Personal Projects 
 
 ### Backend Projects
 
