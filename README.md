@@ -61,11 +61,11 @@ Driven by solving complex engineering problems that deliver measurable business 
    <a href="https://github.com/jainpranay20/Medimeet">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16">
    </a><br>
+   **Description**: A modern, full-stack telemedicine platform where users can register as patients or doctors, book consultations, and conduct 1-on-1 video calls.<br>
+   **Tech Stack**: **Next.js**, Clerk, Neon DB, Prisma<br>
+   **Key Features**: Responsive design, real-time data visualization, theming<br>
+   **Learning**: Server-side rendering
 
-<strong>Description:</strong> A modern, full-stack telemedicine platform where users can register as patients or doctors, book real-time consultations, and conduct 1-on-1 video calls.<br>
-   **Tech Stack**: **Next.js**, Clerk, Neon DB, and Prisma<br>
-   **Key Features**: Responsive design, real-time data visualization, theming  
-   **Learning**: Server side rendering
 
 2. **CSS Grid Layouts (Advanced CSS)**[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16">](https://github.com/jainpranay20/CSS-Grid-Layouts)<br>
    **Description**: A hands‑on repository demonstrating advanced CSS Grid layouts, including Masonry, Holy Grail, and multi‑column designs. Each layout is implemented with responsive breakpoints and modern CSS.  
