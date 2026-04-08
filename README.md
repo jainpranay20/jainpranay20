@@ -1,6 +1,6 @@
 Hi there, I'm **Pranay Jain** 👋
 
-💼 **Full-Stack Software Engineer at IBM ISL** with **2.5+ years of experience**<br>
+💼 **Full-Stack Software Engineer at IBM ISL** with **3+ years of experience**<br>
 🎓 **M.Tech Graduate from IIIT Bangalore**<br>
 🚀 **Passionate about scalable systems, microservices, and cloud-native engineering**
 
@@ -57,8 +57,12 @@ Driven by solving complex engineering problems that deliver measurable business 
 
 ### Frontend Projects
 
-1. **Medimeet** [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16">](https://github.com/jainpranay20/Medimeet)<br>
-   **Description**: A modern, full-stack telemedicine platform where users can register as patients or doctors, book real-time consultations, and conduct 1-on-1 video calls.<br>
+1. <a href="https://github.com/jainpranay20/Medimeet"><strong>Medimeet</strong></a>
+   <a href="https://github.com/jainpranay20/Medimeet">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16">
+   </a><br>
+
+<strong>Description:</strong> A modern, full-stack telemedicine platform where users can register as patients or doctors, book real-time consultations, and conduct 1-on-1 video calls.<br>
    **Tech Stack**: **Next.js**, Clerk, Neon DB, and Prisma<br>
    **Key Features**: Responsive design, real-time data visualization, theming  
    **Learning**: Server side rendering
