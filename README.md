@@ -100,9 +100,5 @@ Driven by solving complex engineering problems that deliver measurable business 
 ### Problem Solving
    
 1. **DSA Practice Repository**[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16">](https://github.com/jainpranay20/DSA)<br>
-   **Description**: A curated collection of Data Structures and Algorithms problems solved in Java, covering arrays, linked lists, trees, graphs, dynamic programming, and more. Organized by topic with clean, production-style code.  
-   **Tech Stack**: C++, Java.
-
-   **Learning**: Problem-solving patterns, algorithm optimization, writing maintainable DSA code
-
+ 
 
