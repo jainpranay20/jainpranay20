@@ -90,8 +90,10 @@ Driven by solving complex engineering problems that deliver measurable business 
    
 ### Problem Solving
    
-1. **DSA Practice Repository**[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16">](https://github.com/jainpranay20/DSA)<br>
- 
+1. <a href="https://github.com/jainpranay20/DSA">
+   <strong>DSA Practice Repository</strong>
+   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16" style="vertical-align: middle;">
+</a><br>
 
 
 
