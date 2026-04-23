@@ -15,13 +15,32 @@ Driven by solving complex engineering problems that deliver measurable business 
 
 ### Backend Projects
 
-1. **EventTix**[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16">](https://github.com/jainpranay20/EventTix)<br>
-   **Description**: EventTix is a scalable and secure ticket booking backend system designed using Spring Boot and microservices architecture.<br>
-   **Tech Stack**: Spring Boot, Kafka, MySQL, Docker, REST APIs, Keycloak<br>
-   **Key Features**: **Event-driven architecture**, fault-tolerant design
-   
-   **Learning**: Microservices patterns, distributed systems, Kafka streams
+1. <a href="https://github.com/jainpranay20/CareerConnectApp"><strong>CareerConnect</strong></a>
+   <a href="https://github.com/jainpranay20/CareerConnectApp">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16">
+   </a><br>
+   **Description**: A LinkedIn-style backend built with distributed microservices — users can create posts, send connection requests, and receive real-time notifications via an event-driven pipeline.<br>
+   **Tech Stack**: **Spring Boot**, Kafka, PostgreSQL, Neo4j, JWT, OpenFeign, Eureka, Spring Cloud Gateway, Zipkin, Docker<br>
+   **Key Features**: PostgreSQL for domain data, Neo4j for social graph, Kafka-driven async notifications across 5 services, centralized JWT auth at the API gateway with `X-User-Id` propagation<br>
+   **Learning**: Microservices patterns (service discovery, API gateway, inter-service communication), event-driven architecture, graph database modeling for social relationships
 
+2. <a href="https://github.com/jainpranay20/Airbnb"><strong>Airbnb Booking Backend</strong></a>
+   <a href="https://github.com/jainpranay20/Airbnb">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16">
+   </a><br>
+   **Description**: A full-featured hotel booking backend covering auth, room inventory, booking lifecycle, guest management, Stripe payments, and a scheduled dynamic pricing engine.<br>
+   **Tech Stack**: **Spring Boot**, PostgreSQL, JWT (access + refresh token), Stripe SDK, Spring Security, Spring Data JPA, Swagger/OpenAPI<br>
+   **Key Features**: Strategy/decorator-pattern pricing pipeline (surge, occupancy, urgency, holiday) with hourly scheduler; Stripe webhook-driven payment capture; role-based access control separating traveler and hotel manager routes; HTTP-only cookie refresh token flow<br>
+   **Learning**: Payment gateway integration, dynamic pricing design patterns, JWT refresh token strategy, role-based API design for multi-persona systems
+
+3. <a href="https://github.com/jainpranay20/EventTix"><strong>EventTix</strong></a>
+   <a href="https://github.com/jainpranay20/EventTix">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16">
+   </a><br>
+   **Description**: A production-style ticket booking backend handling high-concurrency bookings with strong inventory consistency and decoupled order processing via microservices.<br>
+   **Tech Stack**: **Spring Boot**, Kafka, MySQL, Keycloak (OAuth2/JWT), Resilience4j, Spring Cloud Gateway, Docker<br>
+   **Key Features**: Hybrid sync/async flow — Inventory Service called synchronously to prevent overbooking, Order Service driven asynchronously via Kafka, circuit breaking with Resilience4j at the gateway, centralized JWT auth via Keycloak<br>
+   **Learning**: API Gateway pattern, OAuth2 resource server integration, circuit breaker & fault tolerance, mixed synchronous/asynchronous communication design
 
 ### Frontend Projects
 
