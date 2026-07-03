@@ -64,29 +64,6 @@ Driven by solving complex engineering problems that deliver measurable business 
    - GPT-powered movie recommendations based on user input<br>
    - Centralized state for movies, user preferences, and search<br>
    **Learning**: Advanced React patterns, API integration, Redux state management, responsive design
-
-3. <a href="https://github.com/jainpranay20/Youtube"><strong>YouTube Clone (React + Redux)</strong></a>
-   <a href="https://github.com/jainpranay20/Youtube">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16" style="vertical-align: middle;">
-   </a><br>
-   **Description**: A YouTube-style frontend built with React and Redux to strengthen advanced React concepts. Features include a nested recursive comment system, dynamic routing, and state management for videos, playlists, and user interactions.<br>
-   **Tech Stack**: React, Redux Toolkit, React Router, Axios, Tailwind CSS<br>
-   **Key Features**:<br>
-   - **Nested recursive comments (reply to any level) using recursion**<br>
-   - Responsive UI with video player, sidebar, and search<br>
-   **Learning**: Advanced React patterns, recursive component design, Redux state management
-
-4. <a href="https://github.com/jainpranay20/CSS-Grid-Layouts"><strong>CSS Grid Layouts (Advanced CSS)</strong></a>
-   <a href="https://github.com/jainpranay20/CSS-Grid-Layouts">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16" style="vertical-align: middle;">
-   </a><br>
-   **Description**: A hands-on repository demonstrating advanced CSS Grid layouts, including Masonry, Holy Grail, and multi-column designs. Each layout is implemented with responsive breakpoints and modern CSS.<br>
-   **Tech Stack**: HTML, **CSS (Grid, Flexbox)**, Responsive Design<br>
-   **Key Features**:<br>
-   - Masonry-style Pinterest-like grid<br>
-   - Classic Holy Grail layout<br>
-   - Multi-column responsive layouts<br>
-   **Learning**: Advanced CSS Grid patterns, responsive design, layout optimization
    
 ### Problem Solving
    
