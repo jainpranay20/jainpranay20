@@ -13,6 +13,45 @@ Driven by solving complex engineering problems that deliver measurable business 
 
 ## 🚀 Personal Projects 
 
+### Agentic AI
+
+1. <a href="https://github.com/jainpranay20/Tripmate"><strong>Tripmate</strong></a>
+   <a href="https://github.com/jainpranay20/Tripmate">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16" style="vertical-align: middle;">
+   </a><br>
+   **What we built**: We built Tripmate as an AI-powered travel planning assistant that helps users move from a rough idea to a structured trip plan. The goal was to make trip planning feel more personalized, faster, and easier to act on.<br>
+   **What I worked on**:<br>
+   - Designed the core trip-planning flow from user preferences to destination and itinerary suggestions.<br>
+   - Integrated LLM-based reasoning so the assistant could understand travel goals, budget, interests, trip duration, and preferred pace.<br>
+   - Built the experience around practical assistance such as destination ideas, activity suggestions, and day-wise trip planning.<br>
+   - Focused on making recommendations more relevant by using user context instead of generic one-size-fits-all suggestions.<br>
+   **Tech Stack**: **Python**, **LLM APIs**, **agent workflows**, **web app integration**, **API-driven data flow**<br>
+   **Outcome / Learning**: Tripmate helped me understand how to build useful agentic AI systems for real user problems, especially where personalization, context handling, and structured outputs matter a lot.
+
+2. <a href="https://github.com/jainpranay20/Agentic-AI"><strong>Agentic AI</strong></a>
+   <a href="https://github.com/jainpranay20/Agentic-AI">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16" style="vertical-align: middle;">
+   </a><br>
+   **What we built**: This project is focused on experimenting with agentic AI patterns — how an AI system can break down a task, use tools when needed, and coordinate multiple steps to reach a result.<br>
+   **What I worked on**:<br>
+   - Explored agent workflows for multi-step reasoning and task execution.<br>
+   - Worked on reusable patterns for tool use, prompting, and orchestration between system components.<br>
+   - Learned how to structure agent behavior so it is more dependable and easier to reason about.<br>
+   **Tech Stack**: **Python**, **LLM integrations**, **agent orchestration**, **API-driven workflows**<br>
+   **Outcome / Learning**: This repo helped me understand the design and limitations of autonomous AI systems and how to approach them in a more practical, controlled way.
+
+3. <a href="https://github.com/jainpranay20/Agentic-AI---Google-ADK"><strong>Agentic AI - Google ADK</strong></a>
+   <a href="https://github.com/jainpranay20/Agentic-AI---Google-ADK">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16" style="vertical-align: middle;">
+   </a><br>
+   **What we built**: This project was about learning and applying Google ADK concepts to build AI agents in a more structured and framework-driven way.<br>
+   **What I worked on**:<br>
+   - Studied and implemented agent patterns using Google ADK.<br>
+   - Experimented with agent lifecycle, structured execution, and tool-based workflows.<br>
+   - Gained hands-on experience with how platform-first agent development works in practice.<br>
+   **Tech Stack**: **Google ADK**, **Python**, **LLM tooling**, **agent workflows**<br>
+   **Outcome / Learning**: This project gave me a clearer understanding of how to build agents using a formal framework and how different agent platforms shape system design.
+
 ### Backend Projects
 
 1. <a href="https://github.com/jainpranay20/CareerConnectApp"><strong>CareerConnect</strong></a>
