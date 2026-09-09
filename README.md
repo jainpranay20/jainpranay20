@@ -19,38 +19,34 @@ Driven by solving complex engineering problems that deliver measurable business 
    <a href="https://github.com/jainpranay20/Tripmate">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16" style="vertical-align: middle;">
    </a><br>
-   **What we built**: We built Tripmate as an AI-powered travel planning assistant that helps users move from a rough idea to a structured trip plan. The goal was to make trip planning feel more personalized, faster, and easier to act on.<br>
-   **What I worked on**:<br>
-   - Designed the core trip-planning flow from user preferences to destination and itinerary suggestions.<br>
-   - Integrated LLM-based reasoning so the assistant could understand travel goals, budget, interests, trip duration, and preferred pace.<br>
-   - Built the experience around practical assistance such as destination ideas, activity suggestions, and day-wise trip planning.<br>
-   - Focused on making recommendations more relevant by using user context instead of generic one-size-fits-all suggestions.<br>
-   **Tech Stack**: **Python**, **LLM APIs**, **agent workflows**, **web app integration**, **API-driven data flow**<br>
-   **Outcome / Learning**: Tripmate helped me understand how to build useful agentic AI systems for real user problems, especially where personalization, context handling, and structured outputs matter a lot.
+   AI travel planner that turns rough preferences into a structured trip plan.<br>
 
 2. <a href="https://github.com/jainpranay20/Agentic-AI"><strong>Agentic AI</strong></a>
    <a href="https://github.com/jainpranay20/Agentic-AI">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16" style="vertical-align: middle;">
    </a><br>
-   **What we built**: This project is focused on experimenting with agentic AI patterns — how an AI system can break down a task, use tools when needed, and coordinate multiple steps to reach a result.<br>
-   **What I worked on**:<br>
-   - Explored agent workflows for multi-step reasoning and task execution.<br>
-   - Worked on reusable patterns for tool use, prompting, and orchestration between system components.<br>
-   - Learned how to structure agent behavior so it is more dependable and easier to reason about.<br>
-   **Tech Stack**: **Python**, **LLM integrations**, **agent orchestration**, **API-driven workflows**<br>
-   **Outcome / Learning**: This repo helped me understand the design and limitations of autonomous AI systems and how to approach them in a more practical, controlled way.
+   Experimenting with agent workflows, tool use, and multi-step reasoning for practical AI systems.<br>
 
 3. <a href="https://github.com/jainpranay20/Agentic-AI---Google-ADK"><strong>Agentic AI - Google ADK</strong></a>
    <a href="https://github.com/jainpranay20/Agentic-AI---Google-ADK">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16" style="vertical-align: middle;">
    </a><br>
-   **What we built**: This project was about learning and applying Google ADK concepts to build AI agents in a more structured and framework-driven way.<br>
-   **What I worked on**:<br>
-   - Studied and implemented agent patterns using Google ADK.<br>
-   - Experimented with agent lifecycle, structured execution, and tool-based workflows.<br>
-   - Gained hands-on experience with how platform-first agent development works in practice.<br>
-   **Tech Stack**: **Google ADK**, **Python**, **LLM tooling**, **agent workflows**<br>
-   **Outcome / Learning**: This project gave me a clearer understanding of how to build agents using a formal framework and how different agent platforms shape system design.
+   Hands-on learning of Google ADK patterns for building structured and reusable AI agents.<br>
+
+### Low Level Design Patterns
+
+1. <a href="https://github.com/jainpranay20/Low-level-design-patterns/tree/main/src/main/java/CoreDesignPattern/Creational/Singleton"><strong>Singleton</strong></a> — Logger system<br>
+2. <a href="https://github.com/jainpranay20/Low-level-design-patterns/tree/main/src/main/java/CoreDesignPattern/Creational/Factory"><strong>Factory</strong></a> — Notification creation<br>
+3. <a href="https://github.com/jainpranay20/Low-level-design-patterns/tree/main/src/main/java/CoreDesignPattern/Creational/AbstractFactory"><strong>Abstract Factory</strong></a> — Theme generation<br>
+4. <a href="https://github.com/jainpranay20/Low-level-design-patterns/tree/main/src/main/java/CoreDesignPattern/Creational/Builder"><strong>Builder</strong></a> — Pizza configuration<br>
+5. <a href="https://github.com/jainpranay20/Low-level-design-patterns/tree/main/src/main/java/CoreDesignPattern/Structural/Adapter"><strong>Adapter</strong></a> — Payment gateway adapter<br>
+6. <a href="https://github.com/jainpranay20/Low-level-design-patterns/tree/main/src/main/java/CoreDesignPattern/Structural/Decorator"><strong>Decorator</strong></a> — Coffee toppings<br>
+7. <a href="https://github.com/jainpranay20/Low-level-design-patterns/tree/main/src/main/java/CoreDesignPattern/Structural/Facade"><strong>Facade</strong></a> — Home theater facade<br>
+8. <a href="https://github.com/jainpranay20/Low-level-design-patterns/tree/main/src/main/java/CoreDesignPattern/Structural/Proxy"><strong>Proxy</strong></a> — Image loading proxy<br>
+9. <a href="https://github.com/jainpranay20/Low-level-design-patterns/tree/main/src/main/java/CoreDesignPattern/Behavioural/Chain_of_Responsibility"><strong>Chain of Responsibility</strong></a> — Leave approval chain<br>
+10. <a href="https://github.com/jainpranay20/Low-level-design-patterns/tree/main/src/main/java/CoreDesignPattern/Behavioural/Observer"><strong>Observer</strong></a> — Stock updates<br>
+11. <a href="https://github.com/jainpranay20/Low-level-design-patterns/tree/main/src/main/java/CoreDesignPattern/Behavioural/State"><strong>State</strong></a> — Vending machine states<br>
+12. <a href="https://github.com/jainpranay20/Low-level-design-patterns/tree/main/src/main/java/CoreDesignPattern/Behavioural/Strategy"><strong>Strategy</strong></a> — Payment strategy<br>
 
 ### Backend Projects
 
@@ -58,51 +54,32 @@ Driven by solving complex engineering problems that deliver measurable business 
    <a href="https://github.com/jainpranay20/CareerConnectApp">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16">
    </a><br>
-   **Description**: A LinkedIn-style backend built with distributed microservices — users can create posts, send connection requests, and receive real-time notifications via an event-driven pipeline.<br>
-   **Tech Stack**: **Spring Boot**, Kafka, PostgreSQL, Neo4j, JWT, OpenFeign, Eureka, Spring Cloud Gateway, Zipkin, Docker<br>
-   **Key Features**: PostgreSQL for domain data, Neo4j for social graph, Kafka-driven async notifications across 5 services, centralized JWT auth at the API gateway with `X-User-Id` propagation<br>
-   **Learning**: Microservices patterns (service discovery, API gateway, inter-service communication), event-driven architecture, graph database modeling for social relationships
+   Microservices-based social backend with posts, connections, notifications, and graph-based relationships.<br>
 
 2. <a href="https://github.com/jainpranay20/Airbnb"><strong>Airbnb Booking Backend</strong></a>
    <a href="https://github.com/jainpranay20/Airbnb">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16">
    </a><br>
-   **Description**: A full-featured hotel booking backend covering auth, room inventory, booking lifecycle, guest management, Stripe payments, and a scheduled dynamic pricing engine.<br>
-   **Tech Stack**: **Spring Boot**, PostgreSQL, JWT (access + refresh token), Stripe SDK, Spring Security, Spring Data JPA, Swagger/OpenAPI<br>
-   **Key Features**: Strategy/decorator-pattern pricing pipeline (surge, occupancy, urgency, holiday) with hourly scheduler; Stripe webhook-driven payment capture; role-based access control separating traveler and hotel manager routes; HTTP-only cookie refresh token flow<br>
-   **Learning**: Payment gateway integration, dynamic pricing design patterns, JWT refresh token strategy, role-based API design for multi-persona systems
+   Hotel booking system covering auth, inventory, pricing, payments, and role-based APIs.<br>
 
 3. <a href="https://github.com/jainpranay20/EventTix"><strong>EventTix</strong></a>
    <a href="https://github.com/jainpranay20/EventTix">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16">
    </a><br>
-   **Description**: A production-style ticket booking backend handling high-concurrency bookings with strong inventory consistency and decoupled order processing via microservices.<br>
-   **Tech Stack**: **Spring Boot**, Kafka, MySQL, Keycloak (OAuth2/JWT), Resilience4j, Spring Cloud Gateway, Docker<br>
-   **Key Features**: Hybrid sync/async flow — Inventory Service called synchronously to prevent overbooking, Order Service driven asynchronously via Kafka, circuit breaking with Resilience4j at the gateway, centralized JWT auth via Keycloak<br>
-   **Learning**: API Gateway pattern, OAuth2 resource server integration, circuit breaker & fault tolerance, mixed synchronous/asynchronous communication design
+   Ticket booking backend focused on concurrency control, async order handling, and resilient integrations.<br>
 
 ### Frontend Projects
 1. <a href="https://github.com/jainpranay20/Medimeet"><strong>Medimeet</strong></a>
    <a href="https://github.com/jainpranay20/Medimeet">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16" style="vertical-align: middle;">
    </a><br>
-   **Description**: A modern, full-stack telemedicine platform where users can register as patients or doctors, book consultations, and conduct 1-on-1 video calls.<br>
-   **Tech Stack**: **Next.js**, Clerk, Neon DB, Prisma<br>
-   **Key Features**: Responsive design, real-time data visualization, theming<br>
-   **Learning**: Server-side rendering
+   Telemedicine app for patients and doctors with booking, consultations, and a modern UI.<br>
 
 2. <a href="https://github.com/jainpranay20/Netflix"><strong>Netflix GPT (React + Redux)</strong></a>
    <a href="https://github.com/jainpranay20/Netflix">
       <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16" style="vertical-align: middle;">
    </a><br>
-   **Description**: A Netflix-inspired frontend application to master advanced React concepts. Integrates with a movie API (e.g., TMDB) and uses Redux for global state, featuring dynamic content sections, search, and a GPT-powered recommendation engine.<br>
-   **Tech Stack**: React, Redux Toolkit, React Router, Tailwind CSS, TMDB API<br>
-   **Key Features**:<br>
-   - Dynamic movie/TV sections (trending, popular, originals)<br>
-   - Search and filter with debounced API calls<br>
-   - GPT-powered movie recommendations based on user input<br>
-   - Centralized state for movies, user preferences, and search<br>
-   **Learning**: Advanced React patterns, API integration, Redux state management, responsive design
+   Netflix-inspired frontend focused on React patterns, Redux state, search, and GPT-driven recommendations.<br>
    
 ### Problem Solving
    
@@ -110,6 +87,7 @@ Driven by solving complex engineering problems that deliver measurable business 
    <strong>DSA Practice Repository</strong>
    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="16" height="16" style="vertical-align: middle;">
 </a><br>
+   Regular problem-solving practice across data structures, algorithms, and interview-focused coding.<br>
 
 
 
